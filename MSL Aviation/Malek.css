@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 10hv;
+    background-color: 10hv;
+    background-color: rgb(36, 48, 212);
+    background-color: #e6af0b;
+    padding: 10px;
+    margin: 100px;
+}
